@@ -1,11 +1,9 @@
 # GNOME + TigerVNC Installer for Ubuntu 22 (Optimized)
 
-Script ini akan meng-install GNOME Full Desktop + TigerVNC di Ubuntu 22 VPS (Hostinger KVM atau sejenis), termasuk optimasi & opsi uninstall.
-
 ## 📦 Fitur
-- Install GNOME Classic Mode (lebih ringan untuk VPS)
+- Install GNOME Classic Mode
 - Install TigerVNC Server
-- Autostart VNC setelah reboot
+- Autostart VNC after reboot
 - Optimasi performa GNOME di VPS
 - Uninstall bersih (GNOME + VNC)
 
