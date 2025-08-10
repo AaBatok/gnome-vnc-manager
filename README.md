@@ -10,6 +10,6 @@
 ## 🚀 Cara Install Langsung
 Jalankan:
 ```bash
-wget https://raw.githubusercontent.com/USERNAME/REPO/main/gnome-vnc-manager.sh
+wget https://raw.githubusercontent.com/AaBatok/gnome-vnc-manager/main/gnome-vnc-manager.sh
 chmod +x gnome-vnc-manager.sh
 ./gnome-vnc-manager.sh
